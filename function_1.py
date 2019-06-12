@@ -1,0 +1,1 @@
+a = 1 if x == 1 else range(0, x)
